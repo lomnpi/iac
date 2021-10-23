@@ -1,1 +1,1 @@
-![alt text](https://github.com/yankochi/iac/tree/master/cloudformation/img/image.png?raw=true)
+![test](/img/image.png)
