@@ -1,8 +1,1 @@
-![test](/img/image.png)
-
-<img
-src=“img/image.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![test](https://github.com/yankochi/iac/blob/master/cloudformation/img/image.png)
