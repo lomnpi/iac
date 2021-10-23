@@ -1,1 +1,1 @@
-![alt text](https://github.com/yankochi/iac/master/image.png?raw=true)
+![alt text](https://github.com/yankochi/iac/tree/master/cloudformation/img/image.png?raw=true)
